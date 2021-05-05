@@ -14,5 +14,6 @@ def app():
     st.write(df)
 
     st.write('Navigate to `Data Stats` page to visualize the data')
+    st.checkbox('Show dataframe')
 
 
